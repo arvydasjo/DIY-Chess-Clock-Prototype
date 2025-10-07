@@ -1,4 +1,5 @@
 A personal project for a DIY chess clock. This project includes PCB designs, 3D-printable case files, and firmware for a functional chess clock.
+Tools used in the project: Kicad, STM32CubeIDE, Autodesk Fusion.
 
 ## Features
 - Custom PCB with microcontroller STM32F030C8 and screen Grove-LCD 
