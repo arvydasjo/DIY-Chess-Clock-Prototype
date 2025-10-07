@@ -1,5 +1,9 @@
 A personal project for a DIY chess clock. This project includes PCB designs, 3D-printable case files, and firmware for a functional chess clock.
 
+<a href="https://example.com">
+  <img src="https://github.com/arvydasjo/DIY-Chess-Clock-Prototype/blob/main/DIY-Chess-Clock-Prototype/Images/clock2.jpg" alt="Example" width="300">
+</a>
+
 ## Features
 - Custom PCB with microcontroller STM32F030C8 and screen Grove-LCD 
 - 3D-printable case
