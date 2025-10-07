@@ -3,6 +3,7 @@ A personal project for a DIY chess clock. This project includes PCB designs, 3D-
 ## Features
 - Custom PCB with microcontroller STM32F030C8 and screen Grove-LCD 
 - 3D-printable case
+- small magnets used for the user switch button
 - firmware for timing and game management
 - Battery-powered
 
