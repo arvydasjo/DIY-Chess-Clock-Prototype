@@ -23,6 +23,6 @@ A personal project for a DIY chess clock. This project includes PCB designs, 3D-
 ## Tools used in the project
 
 - Kicad for PCB design
-- STM32CubeIDE + STLINK-V3MINIE for programming
+- STM32CubeIDE + STLINK-V3MINIE for programming, HAL libraries
 - Autodesk Fusion for 3D design
 
