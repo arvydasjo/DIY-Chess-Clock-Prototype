@@ -4,7 +4,7 @@ A personal project for a DIY chess clock. This project includes PCB designs, 3D-
   <img src="https://github.com/arvydasjo/DIY-Chess-Clock-Prototype/blob/main/DIY-Chess-Clock-Prototype/Images/clock2.jpg" alt="Example" width="300">
   <img src="https://github.com/arvydasjo/DIY-Chess-Clock-Prototype/blob/main/DIY-Chess-Clock-Prototype/Images/clock1.jpg" alt="Example" width="300">
   <img src="https://github.com/arvydasjo/DIY-Chess-Clock-Prototype/blob/main/DIY-Chess-Clock-Prototype/Images/3D.png" alt="Example" width="300">
-  
+  <img src="https://github.com/arvydasjo/DIY-Chess-Clock-Prototype/blob/main/DIY-Chess-Clock-Prototype/Images/PCB.png" alt="Example" width="300">
 </a>
 
 ## Features
